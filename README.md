@@ -18,6 +18,6 @@ However, theme update notifications will still come through for any themes that 
 
 ## Installation ##
 
-1. [Download the theme here.](https://github.com/Themesy/Do-Nothing/archive/master.zip)
+1. [Download the theme here.](https://github.com/Themesy/Do-Nothing/archive/simplified.zip)
 2. Go to Themes > Add New in your WordPress admin. Click on `Upload Theme` and browse for the zip file.
 3. Activate the Theme.
